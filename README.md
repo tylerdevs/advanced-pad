@@ -46,7 +46,7 @@ pad.padRight('test', 10, 'x');
 Output: testxxxxxx
 
 // pad to with 'x' to right, length of 5, with truncate
-pad.padRight('testing', 5, 'x', true);
+pad.padRight('testing', 4, 'x', true);
 Output: test
 ```
 

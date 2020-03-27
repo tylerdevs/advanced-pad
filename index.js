@@ -2,7 +2,7 @@ function advancedPad(dir, string, len, chr = ' ', trunc = false) {
   // a string is a string is a string
   let str = String(string);
   const strLen = str.length;
-  let i = -1;
+  let i = 0;
   // check to truncate
   if (strLen > len) {
     if (trunc === true) {

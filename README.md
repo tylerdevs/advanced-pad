@@ -1,7 +1,7 @@
 
 # [Node] advanced-pad
 
-[![Build Status](https://travis-ci.org/tylerdevs/advanced-pad.svg?branch=master)](https://travis-ci.org/tylerdevs/advanced-pad) [![dependencies Status](https://david-dm.org/tylerdevs/advanced-pad/status.svg)](https://david-dm.org/tylerdevs/advanced-pad) [![devDependencies Status](https://david-dm.org/tylerdevs/advanced-pad/dev-status.svg)](https://david-dm.org/flexdinesh/npm-module-boilerplate?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/tylerdevs/advanced-pad.svg?branch=master)](https://travis-ci.orgtylerdevs/advanced-pad) [![dependencies Status](https://david-dm.org/tylerdevs/advanced-pad/status.svg)](https://david-dm.org/tylerdevs/advanced-pad) [![devDependencies Status](https://david-dm.org/tylerdevs/advanced-pad/dev-status.svg)](https://david-dm.org/flexdinesh/npm-module-boilerplate?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Super lightweight and advanced padding module.**
 
